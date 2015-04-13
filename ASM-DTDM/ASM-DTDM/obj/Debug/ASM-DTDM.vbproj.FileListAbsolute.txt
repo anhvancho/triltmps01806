@@ -11,3 +11,7 @@ G:\VS\ASM-DTDM\ASM-DTDM\obj\Debug\ASM-DTDM.pdb
 G:\VS\ASM-DTDM\ASM-DTDM\obj\Debug\ASM_DTDM.Main.resources
 G:\VS\ASM-DTDM\ASM-DTDM\obj\Debug\ASM_DTDM.Quanlykhachhang.resources
 G:\VS\ASM-DTDM\ASM-DTDM\obj\Debug\ASM_DTDM.Quanlynhanvien.resources
+G:\GIT\triltmps01806\ASM-DTDM\ASM-DTDM\bin\Debug\ASM-DTDM.exe.config
+G:\GIT\triltmps01806\ASM-DTDM\ASM-DTDM\obj\Debug\ASM-DTDM.exe
+G:\GIT\triltmps01806\ASM-DTDM\ASM-DTDM\obj\Debug\ASM-DTDM.xml
+G:\GIT\triltmps01806\ASM-DTDM\ASM-DTDM\obj\Debug\ASM-DTDM.pdb

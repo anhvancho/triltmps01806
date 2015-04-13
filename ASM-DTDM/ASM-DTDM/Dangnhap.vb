@@ -1,6 +1,6 @@
 ﻿Imports System.Data.SqlClient
 Public Class Dangnhap
-
+    'sua code tranminh2075
     Private Sub btndangnhap_Click(sender As Object, e As EventArgs) Handles btndangnhap.Click
         Dim chuoiketnoi As String = "workstation id=anhvancho.mssql.somee.com;packet size=4096;user id=anhvancho_SQLLogin_1;pwd=tgnguhdn2e;data source=anhvancho.mssql.somee.com;persist security info=False;initial catalog=anhvancho"
         Dim KetNoi As SqlConnection = New SqlConnection(chuoiketnoi)
